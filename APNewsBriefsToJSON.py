@@ -26,7 +26,7 @@ for position in soupAPNewsBriefs.find_all('div', class_='ap-newsbriefitem'):
     fullStory = 'http://hosted.ap.org/' + position.find('a').get('href')
     ctime = fullStory.split('CTIME=')[1]
 
-    #j
+    #jj
     # Make changes to response for APNewsBriefs
     response.append({'Headline': headline, 'Brief': brief, 'AP_Office': apOffice, 'Full_Story': fullStory,
                     'CTIME': ctime})
