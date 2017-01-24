@@ -20,7 +20,7 @@ price = cost.find('span').string
 size = soupAPNewsBriefs.find('span', class_='prop-beds bullet-separator').string
 phone = soupAPNewsBriefs.find('strong', class_='tel').string
 
-
+#jj
 
 print(location)
 print(price)
