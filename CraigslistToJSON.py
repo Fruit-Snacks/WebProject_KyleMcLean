@@ -20,9 +20,18 @@ soupAPNewsBriefs = BeautifulSoup(pageAPNewsBriefs.content, 'lxml')
 # Parse APNewsBriefs url
 # 'position' marks the beginning of each news brief in the html
 # All other data is found in its relationship to 'position'
-for brief in soupAPNewsBriefs.find_all('li', class_='result-row'):
-    location = soupAPNewsBriefs.find('span', class_='result-hood').string
-    price = soupAPNewsBriefs.find('span', class_='result-price').string
+for brief in soupAPNewsBriefs.find_all('p', class_='result-info'):
+
+    if brief.find('span', class_='result-hood') :
+        location = brief.find('span', class_='result-hood').string
+    else:
+        location = 'Not listed'
+
+    if brief.find('span', class_='result-price'):
+        price = brief.find('span', class_='result-price').string
+    else:
+        price = 'Not listed'
+
     #size = brief.find('sup').previousSibling.string
 
 
