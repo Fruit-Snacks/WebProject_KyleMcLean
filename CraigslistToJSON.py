@@ -10,6 +10,7 @@ today = str(datetime.datetime.now().date())
 response = []
 
 # Scrape APNewsBriefs with requests
+
 urlAPNewsBriefs = 'https://nashville.craigslist.org/search/apa'
 pageAPNewsBriefs = requests.get(urlAPNewsBriefs)
 
@@ -19,14 +20,14 @@ soupAPNewsBriefs = BeautifulSoup(pageAPNewsBriefs.content, 'lxml')
 # Parse APNewsBriefs url
 # 'position' marks the beginning of each news brief in the html
 # All other data is found in its relationship to 'position'
-for brief in soupAPNewsBriefs.find_all('p', class_='result-info'):
+for brief in soupAPNewsBriefs.find_all('li', class_='result-row'):
     location = soupAPNewsBriefs.find('span', class_='result-hood').string
     price = soupAPNewsBriefs.find('span', class_='result-price').string
-    size = soupAPNewsBriefs.find('sup').previousSibling.string
+    #size = brief.find('sup').previousSibling.string
 
 
     # Make changes to response for APNewsBriefs
-    response.append({'location': location, 'price': price, 'size': size})
+    response.append({'location': location, 'price': price,})
 
 # Write response to JSON file
 postingsFile = today + 'CraigslistBriefs.json'
