@@ -47,5 +47,5 @@ with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
 
 outfile.close()
-#D
+#DD
 
