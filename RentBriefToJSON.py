@@ -41,9 +41,11 @@ for brief in soupAPNewsBriefs.find_all('div', class_='prop li-srp'):
 postingsFile = today + 'RentBriefs.json'
 
 #Write response to JSON file in another location
-#postingsFile = '/APBriefs/' + today + '.APNewsBriefs.json'
+postingsFile = '/Users/Owner/PycharmProjects/CSC3130/WebProject_KyleMcLean/' + today + '.APNewsBriefsSS.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
 
 outfile.close()
+
+

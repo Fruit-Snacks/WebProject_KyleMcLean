@@ -1,0 +1,16 @@
+parse == Ture
+while parse == True
+    pages = requests.get(url)
+    soup = BeautifulSpup(pages.content, 'lxml')
+
+    for postion in soup.find_all('div', class_='ytlockup-content''):
+    title = postion.find('a').string
+
+    response.appnded({'Title': title})
+
+    parse = False
+    for nextPostion in soup.find_all('span', class_='yt-uix-button-content'):
+        if nextPostion.String =='Next':
+        url = 'https://www.youtube.com'/' + nextPostion.parent.get('href')
+        parse = True
+        i +=1

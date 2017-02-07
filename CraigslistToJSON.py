@@ -1,3 +1,4 @@
+#from selenium import webdriver
 import requests
 import datetime
 from bs4 import BeautifulSoup
@@ -9,13 +10,43 @@ today = str(datetime.datetime.now().date())
 # Create a list of dictionaries for JSON Object
 response = []
 
-# Scrape APNewsBriefs with requests
+#selenium
+#browser = webdriver.Chrome()
 
-urlAPNewsBriefs = 'https://nashville.craigslist.org/search/apa'
+# Scrape APNewsBriefs with requests
+#parse = True
+#i =100
+# while parse == True:
+#     pages = requests.get(url)
+#     soup = BeautifulSoup(pages.content, 'lxml')
+
+#if(i<500):
+#    url = 'https://nashville.craigslist.org/search/apa' + '?s=' + i
+#    i+100
+
+
+urlAPNewsBriefs ='https://nashville.craigslist.org/search/apa'
+#test
+#parse = True
+#i =100
+#while parse ==True:
+#    pageAPNewsBriefs = requests.get(urlAPNewsBriefs)
+#    soupAPNewsBriefs = BeautifulSoup(pageAPNewsBriefs.content, 'lmxl')
+#parse = False
+#if(i<500):
+#    urlAPNewsBriefs = 'https://nashville.craigslist.org/search/apa' + '?s=' + i
+#    i=100
+#    parse= True
+#selenium
+#pageAPNewsBriefs = browser.get(urlAPNewsBriefs)
+
 pageAPNewsBriefs = requests.get(urlAPNewsBriefs)
 
 # Prepare for parsing APNewsBriefs with BeautifulSoup
 soupAPNewsBriefs = BeautifulSoup(pageAPNewsBriefs.content, 'lxml')
+
+#soupAPNewsBriefs = BeautifulSoup(browser.page_source, 'lxml')
+#browser.quit()
 
 # Parse APNewsBriefs url
 # 'position' marks the beginning of each news brief in the html

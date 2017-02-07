@@ -1,0 +1,122 @@
+[
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1500",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro, The Gulch)",
+    "phone": "(844) 310-5291",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 614-0437",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-5055",
+    "price": "$1800",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 893-4613",
+    "price": "$1750",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 330-0704",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 508-2643",
+    "price": "$4650",
+    "size": "4 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 319-8931",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(877) 503-2074",
+    "price": "$3199",
+    "size": "5 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 762-1357",
+    "price": "$1645",
+    "size": "3 Beds"
+  }
+]
