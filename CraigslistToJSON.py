@@ -70,10 +70,10 @@ for brief in soupAPNewsBriefs.find_all('p', class_='result-info'):
     response.append({'location': location, 'price': price,})
 
 # Write response to JSON file
-postingsFile = today + 'CraigslistBriefs.json'
+#postingsFile = today + 'CraigslistBriefs.json'
 
 #Write response to JSON file in another location
-#postingsFile = '/APBriefs/' + today + '.APNewsBriefs.json'
+postingsFile = '/Users/Owner/PycharmProjects/CSC3130/WebProject_KyleMcLean/' + today + '.CraigslsitBriefs.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
