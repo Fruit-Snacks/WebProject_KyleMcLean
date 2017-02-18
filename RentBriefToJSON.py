@@ -38,10 +38,10 @@ for brief in soupAPNewsBriefs.find_all('div', class_='prop li-srp'):
     response.append({'location': location, 'price': price, 'size': size, 'phone': phone})
 
 # Write response to JSON file
-postingsFile = today + 'RentBriefs.json'
+#postingsFile = today + 'RentBriefs.json'
 
 #Write response to JSON file in another location
-postingsFile = '/Users/Owner/PycharmProjects/CSC3130/WebProject_KyleMcLean/' + today + '.APNewsBriefsSS.json'
+postingsFile = '/Users/Owner/PycharmProjects/CSC3130/WebProject_KyleMcLean/' + today + '.RentBriefs.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
