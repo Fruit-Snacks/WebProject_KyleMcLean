@@ -63,11 +63,21 @@ for brief in soupAPNewsBriefs.find_all('p', class_='result-info'):
     else:
         price = 'Not listed'
 
-    #size = brief.find('sup').previousSibling.string
+    if brief.find('span', class_='housing') is None:
+        size = 'Not listed'
+    else:
+        size = brief.find('span', class_='housing').string
+        if size is None:
+            size = 'Not listed'
+    size = size.strip('\n')
+    size = size.strip(' ')
+    size = size.strip('\n')
+    size = size.strip(' -')
+
 
 
     # Make changes to response for APNewsBriefs
-    response.append({'location': location, 'price': price,})
+    response.append({'location': location, 'price': price, 'size': size})
 
 # Write response to JSON file
 #postingsFile = today + 'CraigslistBriefs.json'

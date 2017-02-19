@@ -1,402 +1,502 @@
 [
   {
+    "location": " (159 Mansker Park Dr, Hendersonville, TN 37075)",
+    "price": "$1870",
+    "size": "Not listed"
+  },
+  {
+    "location": " (900 19th Ave S)",
+    "price": "$1375",
+    "size": "Not listed"
+  },
+  {
     "location": " (Nashville)",
-    "price": "$1989"
+    "price": "$900",
+    "size": "Not listed"
   },
   {
-    "location": " (West Nashville)",
-    "price": "$1259"
+    "location": " (Oakland)",
+    "price": "$950",
+    "size": "Not listed"
   },
   {
-    "location": " (Smyrna)",
-    "price": "$1454"
+    "location": " (Spring Hill)",
+    "price": "$1800",
+    "size": "3br"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$2000",
+    "size": "Not listed"
   },
   {
     "location": " (Murfreesboro)",
-    "price": "$1089"
+    "price": "$1030",
+    "size": "Not listed"
   },
   {
     "location": " (Nashville)",
-    "price": "$1440"
+    "price": "$905",
+    "size": "Not listed"
   },
   {
-    "location": " (Nashville - West End)",
-    "price": "$1385"
+    "location": " (108 Thompson Ln Nashville TN)",
+    "price": "$900",
+    "size": "Not listed"
   },
   {
-    "location": " (Nashville)",
-    "price": "$1525"
-  },
-  {
-    "location": " (Hendersonville)",
-    "price": "$859"
-  },
-  {
-    "location": "Not listed",
-    "price": "$829"
-  },
-  {
-    "location": " (Nashville,West End, Vanderbilt)",
-    "price": "Not listed"
-  },
-  {
-    "location": " (1650 Cason, Murfreesboro, TN 37128)",
-    "price": "$1160"
-  },
-  {
-    "location": " (3525 West End Ave, Nashville)",
-    "price": "$1650"
-  },
-  {
-    "location": " (nashville, tn)",
-    "price": "$831"
-  },
-  {
-    "location": "Not listed",
-    "price": "$900"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1100"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1175"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1016"
-  },
-  {
-    "location": "Not listed",
-    "price": "$675"
-  },
-  {
-    "location": "Not listed",
-    "price": "$795"
-  },
-  {
-    "location": "Not listed",
-    "price": "$975"
-  },
-  {
-    "location": "Not listed",
-    "price": "$775"
-  },
-  {
-    "location": " (Franklin)",
-    "price": "$1306"
-  },
-  {
-    "location": " (Nashville)",
-    "price": "$1249"
-  },
-  {
-    "location": " (Goodlettsville)",
-    "price": "$1200"
-  },
-  {
-    "location": " (5901 Old Hickory Boulevard, Hermitage, TN 37076)",
-    "price": "$1010"
-  },
-  {
-    "location": " (Downtown)",
-    "price": "$1633"
+    "location": " (Grassland)",
+    "price": "$3000",
+    "size": "Not listed"
   },
   {
     "location": " (Nashville, TN)",
-    "price": "$1205"
+    "price": "$1490",
+    "size": "Not listed"
   },
   {
-    "location": " (1500 Brentridge, Antioch, TN 37013)",
-    "price": "$1175"
+    "location": " (Nashville - Vanderbilt University)",
+    "price": "$1525",
+    "size": "Not listed"
   },
   {
-    "location": "Not listed",
-    "price": "$978"
+    "location": " (near Rose Pepper)",
+    "price": "$1300",
+    "size": "1br"
   },
   {
-    "location": " (Downtown Nashville)",
-    "price": "$1249"
+    "location": " (2505 Preston way)",
+    "price": "$1649",
+    "size": "Not listed"
   },
   {
-    "location": " (Franklin, TN)",
-    "price": "$1815"
+    "location": " (Sylvan Heights)",
+    "price": "$1475",
+    "size": "Not listed"
   },
   {
     "location": " (Nashville)",
-    "price": "$430"
-  },
-  {
-    "location": " (Nashville,West End, Vanderbilt)",
-    "price": "Not listed"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1149"
-  },
-  {
-    "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
-    "price": "$1995"
-  },
-  {
-    "location": "Not listed",
-    "price": "$829"
-  },
-  {
-    "location": " (Nashville TN)",
-    "price": "$1068"
-  },
-  {
-    "location": "Not listed",
-    "price": "$800"
-  },
-  {
-    "location": " (Murfreesboro)",
-    "price": "$965"
-  },
-  {
-    "location": " (Murfreesboro)",
-    "price": "$965"
-  },
-  {
-    "location": "Not listed",
-    "price": "$834"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1366"
-  },
-  {
-    "location": " (Downtown Nashville)",
-    "price": "$1249"
-  },
-  {
-    "location": " (Franklin)",
-    "price": "$1125"
-  },
-  {
-    "location": " (Murfreesboro)",
-    "price": "$965"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
-    "location": " (Franklin)",
-    "price": "$1306"
+    "price": "$1169",
+    "size": "Not listed"
   },
   {
     "location": " (nashville\tTN)",
-    "price": "$715"
+    "price": "$780",
+    "size": "3br"
   },
   {
-    "location": " (West End/ Vanderbilt/ Medical Center)",
-    "price": "$1153"
+    "location": " (Nashville)",
+    "price": "$1137",
+    "size": "Not listed"
   },
   {
     "location": "Not listed",
-    "price": "$1539"
-  },
-  {
-    "location": " (Vandy/Green Hills area)",
-    "price": "$1550"
+    "price": "$800",
+    "size": "Not listed"
   },
   {
     "location": " (1000 Amberwood Circle, Nashville, TN 37221)",
-    "price": "$1437"
+    "price": "$934",
+    "size": "Not listed"
   },
   {
     "location": " (Nashville)",
-    "price": "$1249"
+    "price": "$1590",
+    "size": "Not listed"
+  },
+  {
+    "location": " (, ,  37075)",
+    "price": "$860",
+    "size": "Not listed"
+  },
+  {
+    "location": " (865 Bellevue Rd, Nashville, TN 37221)",
+    "price": "$1197",
+    "size": "Not listed"
   },
   {
     "location": " (Nashville)",
-    "price": "$1249"
-  },
-  {
-    "location": " (Riverside Drive)",
-    "price": "$999"
-  },
-  {
-    "location": " (Nashville)",
-    "price": "$1249"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1435"
-  },
-  {
-    "location": " (South Nashville)",
-    "price": "$1399"
-  },
-  {
-    "location": " (WEST END NEAR VANDERBILT)",
-    "price": "$1720"
-  },
-  {
-    "location": " (Almaville Farms at Seven Oaks)",
-    "price": "$1089"
-  },
-  {
-    "location": " (Elliston, West End, Vanderbilt)",
-    "price": "$1549"
+    "price": "$1180",
+    "size": "2br"
   },
   {
     "location": " (Nashville, TN)",
-    "price": "$1205"
-  },
-  {
-    "location": " (Murfreesboro)",
-    "price": "$1429"
-  },
-  {
-    "location": " (Nashville TN)",
-    "price": "$918"
-  },
-  {
-    "location": " (Dickson, TN)",
-    "price": "$700"
-  },
-  {
-    "location": " (Nashville TN)",
-    "price": "$871"
-  },
-  {
-    "location": " (Dickson, TN)",
-    "price": "$700"
-  },
-  {
-    "location": " (Dickson, TN)",
-    "price": "$700"
-  },
-  {
-    "location": " (Madison)",
-    "price": "$677"
+    "price": "$1152",
+    "size": "Not listed"
   },
   {
     "location": "Not listed",
-    "price": "$2130"
+    "price": "$832",
+    "size": "Not listed"
   },
   {
-    "location": " (1101 18th Ave S)",
-    "price": "$1400"
+    "location": " (Cool Springs/Franklin/Williamson County)",
+    "price": "$1099",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1299",
+    "size": "1br"
+  },
+  {
+    "location": " (Riverside Village/Inglewood)",
+    "price": "$1800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Inglewood/East Nashville)",
+    "price": "$2400",
+    "size": "4br"
+  },
+  {
+    "location": " (12 South Nashville, TN)",
+    "price": "$3095",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Almaville Farms at Seven Oaks)",
+    "price": "$1089",
+    "size": "Not listed"
+  },
+  {
+    "location": " (The Gulch)",
+    "price": "$2109",
+    "size": "Not listed"
   },
   {
     "location": " (Madison)",
-    "price": "$1209"
+    "price": "$825",
+    "size": "Not listed"
   },
   {
-    "location": " (Madison)",
-    "price": "$1074"
+    "location": " (Spring Hill)",
+    "price": "$1188",
+    "size": "Not listed"
   },
   {
-    "location": "Not listed",
-    "price": "$834"
+    "location": " (Green Hills)",
+    "price": "$1705",
+    "size": "Not listed"
   },
   {
-    "location": " (Nashville)",
-    "price": "$1249"
-  },
-  {
-    "location": " (Nashville)",
-    "price": "$1249"
+    "location": " (6800 Highway 70 S, Nashville, TN 37221)",
+    "price": "$1312",
+    "size": "Not listed"
   },
   {
     "location": " (Franklin)",
-    "price": "$1140"
+    "price": "$1619",
+    "size": "Not listed"
   },
   {
-    "location": " (Madison)",
-    "price": "$1264"
+    "location": " (2100 Waterford Circle)",
+    "price": "$1210",
+    "size": "Not listed"
   },
   {
-    "location": " (Hawthorne Park South)",
-    "price": "$799"
+    "location": " (West Nashville)",
+    "price": "$1349",
+    "size": "Not listed"
   },
   {
-    "location": " (207 National Drive, Murfreesboro, TN 37128)",
-    "price": "$929"
-  },
-  {
-    "location": " (Hendersonville)",
-    "price": "$1059"
-  },
-  {
-    "location": " (Madison)",
-    "price": "$860"
-  },
-  {
-    "location": " (Antioch)",
-    "price": "$1059"
-  },
-  {
-    "location": " (West End/ Vanderbilt/ Medical Center)",
-    "price": "$1250"
-  },
-  {
-    "location": " (NASHVILLE/ANTIOCH)",
-    "price": "$800"
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1499",
+    "size": "1br"
   },
   {
     "location": " (Nashville)",
-    "price": "$955"
+    "price": "$1675",
+    "size": "Not listed"
   },
   {
-    "location": " (NASHVILLE/ANTIOCH)",
-    "price": "$1059"
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1375",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$939",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1475",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1345",
+    "size": "1br"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1375",
+    "size": "1br"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1345",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$1040",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1349",
+    "size": "Not listed"
+  },
+  {
+    "location": " (234 Connie Drive)",
+    "price": "$1575",
+    "size": "Not listed"
   },
   {
     "location": "Not listed",
-    "price": "$939"
+    "price": "$1210",
+    "size": "Not listed"
   },
   {
-    "location": " (madison)",
-    "price": "$785"
+    "location": " (Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
   },
   {
-    "location": " (madison)",
-    "price": "$785"
+    "location": " (Nashville)",
+    "price": "$1864",
+    "size": "Not listed"
   },
   {
-    "location": " (madison)",
-    "price": "$895"
+    "location": "Not listed",
+    "price": "$1349",
+    "size": "2br"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$2749",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$944",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1989",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1454",
+    "size": "Not listed"
   },
   {
     "location": " (Murfreesboro)",
-    "price": "$954"
+    "price": "$1089",
+    "size": "Not listed"
   },
   {
-    "location": " (madison)",
-    "price": "$895"
+    "location": " (Nashville)",
+    "price": "$1440",
+    "size": "Not listed"
   },
   {
-    "location": " (1070 W Main, Hendersonville, TN 37075)",
-    "price": "$970"
+    "location": " (Nashville - West End)",
+    "price": "$1385",
+    "size": "Not listed"
   },
   {
-    "location": " (Hawthorne Park South)",
-    "price": "$949"
+    "location": " (Nashville)",
+    "price": "$1525",
+    "size": "Not listed"
   },
   {
-    "location": " (madison)",
-    "price": "$785"
+    "location": " (Hendersonville)",
+    "price": "$859",
+    "size": "Not listed"
   },
   {
-    "location": " (west meade park / belle meade)",
-    "price": "$3500"
+    "location": "Not listed",
+    "price": "$829",
+    "size": "Not listed"
   },
   {
-    "location": " (Madison)",
-    "price": "$950"
+    "location": " (Nashville,West End, Vanderbilt)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1650 Cason, Murfreesboro, TN 37128)",
+    "price": "$1160",
+    "size": "Not listed"
+  },
+  {
+    "location": " (3525 West End Ave, Nashville)",
+    "price": "$1650",
+    "size": "Not listed"
+  },
+  {
+    "location": " (nashville, tn)",
+    "price": "$831",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$900",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1100",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1175",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1016",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$675",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$795",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$975",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$775",
+    "size": "2br"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1306",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Goodlettsville)",
+    "price": "$1200",
+    "size": "Not listed"
+  },
+  {
+    "location": " (5901 Old Hickory Boulevard, Hermitage, TN 37076)",
+    "price": "$1010",
+    "size": "1br"
+  },
+  {
+    "location": " (Downtown)",
+    "price": "$1633",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1205",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$1175",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$978",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin, TN)",
+    "price": "$1815",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$430",
+    "size": "5br"
+  },
+  {
+    "location": " (Nashville,West End, Vanderbilt)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1149",
+    "size": "1br"
+  },
+  {
+    "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
+    "price": "$1995",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$829",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville TN)",
+    "price": "$1068",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965",
+    "size": "Not listed"
   }
 ]
