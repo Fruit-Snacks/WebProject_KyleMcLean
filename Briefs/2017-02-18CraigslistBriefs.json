@@ -8,14 +8,6 @@
     "price": "$859"
   },
   {
-    "location": "Not listed",
-    "price": "$829"
-  },
-  {
-    "location": " (Nashville,West End, Vanderbilt)",
-    "price": "Not listed"
-  },
-  {
     "location": " (1650 Cason, Murfreesboro, TN 37128)",
     "price": "$1160"
   },
@@ -26,38 +18,6 @@
   {
     "location": " (nashville, tn)",
     "price": "$831"
-  },
-  {
-    "location": "Not listed",
-    "price": "$900"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1100"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1175"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1016"
-  },
-  {
-    "location": "Not listed",
-    "price": "$675"
-  },
-  {
-    "location": "Not listed",
-    "price": "$795"
-  },
-  {
-    "location": "Not listed",
-    "price": "$975"
-  },
-  {
-    "location": "Not listed",
-    "price": "$775"
   },
   {
     "location": " (Franklin)",
@@ -88,10 +48,6 @@
     "price": "$1175"
   },
   {
-    "location": "Not listed",
-    "price": "$978"
-  },
-  {
     "location": " (Downtown Nashville)",
     "price": "$1249"
   },
@@ -104,44 +60,20 @@
     "price": "$430"
   },
   {
-    "location": " (Nashville,West End, Vanderbilt)",
-    "price": "Not listed"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1149"
-  },
-  {
     "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
     "price": "$1995"
-  },
-  {
-    "location": "Not listed",
-    "price": "$829"
   },
   {
     "location": " (Nashville TN)",
     "price": "$1068"
   },
   {
-    "location": "Not listed",
-    "price": "$800"
-  },
-  {
     "location": " (Murfreesboro)",
     "price": "$965"
   },
   {
     "location": " (Murfreesboro)",
     "price": "$965"
-  },
-  {
-    "location": "Not listed",
-    "price": "$834"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1366"
   },
   {
     "location": " (Downtown Nashville)",
@@ -156,14 +88,6 @@
     "price": "$965"
   },
   {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
     "location": " (Franklin)",
     "price": "$1306"
   },
@@ -174,10 +98,6 @@
   {
     "location": " (West End/ Vanderbilt/ Medical Center)",
     "price": "$1153"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1539"
   },
   {
     "location": " (Vandy/Green Hills area)",
@@ -202,14 +122,6 @@
   {
     "location": " (Nashville)",
     "price": "$1249"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1425"
-  },
-  {
-    "location": "Not listed",
-    "price": "$1435"
   },
   {
     "location": " (South Nashville)",
@@ -260,10 +172,6 @@
     "price": "$677"
   },
   {
-    "location": "Not listed",
-    "price": "$2130"
-  },
-  {
     "location": " (1101 18th Ave S)",
     "price": "$1400"
   },
@@ -274,10 +182,6 @@
   {
     "location": " (Madison)",
     "price": "$1074"
-  },
-  {
-    "location": "Not listed",
-    "price": "$834"
   },
   {
     "location": " (Nashville)",
@@ -330,10 +234,6 @@
   {
     "location": " (NASHVILLE/ANTIOCH)",
     "price": "$1059"
-  },
-  {
-    "location": "Not listed",
-    "price": "$939"
   },
   {
     "location": " (madison)",
@@ -396,7 +296,3210 @@
     "price": "$800"
   },
   {
-    "location": "Not listed",
-    "price": "$2900"
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1399",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1195",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Radnor)",
+    "phone": "(844) 610-7947",
+    "price": "$1250",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 585-1387",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+   {
+    "location": " (159 Mansker Park Dr, Hendersonville, TN 37075)",
+    "price": "$1870",
+    "size": "Not listed"
+  },
+  {
+    "location": " (900 19th Ave S)",
+    "price": "$1375",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Spring Hill)",
+    "price": "$1800",
+    "size": "3br"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$2000",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1030",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$905",
+    "size": "Not listed"
+  },
+  {
+    "location": " (108 Thompson Ln Nashville TN)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Grassland)",
+    "price": "$3000",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1490",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville - Vanderbilt University)",
+    "price": "$1525",
+    "size": "Not listed"
+  },
+  {
+    "location": " (near Rose Pepper)",
+    "price": "$1300",
+    "size": "1br"
+  },
+  {
+    "location": " (2505 Preston way)",
+    "price": "$1649",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Sylvan Heights)",
+    "price": "$1475",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1169",
+    "size": "Not listed"
+  },
+  {
+    "location": " (nashville\tTN)",
+    "price": "$780",
+    "size": "3br"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1137",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1000 Amberwood Circle, Nashville, TN 37221)",
+    "price": "$934",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1590",
+    "size": "Not listed"
+  },
+  {
+    "location": " (, ,  37075)",
+    "price": "$860",
+    "size": "Not listed"
+  },
+  {
+    "location": " (865 Bellevue Rd, Nashville, TN 37221)",
+    "price": "$1197",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1180",
+    "size": "2br"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1152",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Cool Springs/Franklin/Williamson County)",
+    "price": "$1099",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1299",
+    "size": "1br"
+  },
+  {
+    "location": " (Riverside Village/Inglewood)",
+    "price": "$1800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Inglewood/East Nashville)",
+    "price": "$2400",
+    "size": "4br"
+  },
+  {
+    "location": " (12 South Nashville, TN)",
+    "price": "$3095",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Almaville Farms at Seven Oaks)",
+    "price": "$1089",
+    "size": "Not listed"
+  },
+  {
+    "location": " (The Gulch)",
+    "price": "$2109",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$825",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Spring Hill)",
+    "price": "$1188",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$1705",
+    "size": "Not listed"
+  },
+  {
+    "location": " (6800 Highway 70 S, Nashville, TN 37221)",
+    "price": "$1312",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1619",
+    "size": "Not listed"
+  },
+  {
+    "location": " (2100 Waterford Circle)",
+    "price": "$1210",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1349",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1499",
+    "size": "1br"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1675",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1375",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$939",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1475",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1345",
+    "size": "1br"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1375",
+    "size": "1br"
+  },
+  {
+    "location": " (604 GALLATIN AVE STE 215)",
+    "price": "$1345",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$1040",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1349",
+    "size": "Not listed"
+  },
+  {
+    "location": " (234 Connie Drive)",
+    "price": "$1575",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1864",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$2749",
+    "size": "2br"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1989",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1454",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1089",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1440",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville - West End)",
+    "price": "$1385",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1525",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$859",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1650 Cason, Murfreesboro, TN 37128)",
+    "price": "$1160",
+    "size": "Not listed"
+  },
+  {
+    "location": " (3525 West End Ave, Nashville)",
+    "price": "$1650",
+    "size": "Not listed"
+  },
+  {
+    "location": " (nashville, tn)",
+    "price": "$831",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1306",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Goodlettsville)",
+    "price": "$1200",
+    "size": "Not listed"
+  },
+  {
+    "location": " (5901 Old Hickory Boulevard, Hermitage, TN 37076)",
+    "price": "$1010",
+    "size": "1br"
+  },
+  {
+    "location": " (Downtown)",
+    "price": "$1633",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1205",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$1175",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin, TN)",
+    "price": "$1815",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$430",
+    "size": "5br"
+  },
+  {
+    "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
+    "price": "$1995",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville TN)",
+    "price": "$1068",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965",
+    "size": "Not listed"
+  },
+   {
+    "location": "2350 Franklin Pike, Nashville, TN 37204",
+    "phone": "844-321-0940",
+    "price": "$1,164 - 2,525",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1221 Division St, Nashville, TN 37203",
+    "phone": "844-541-4865",
+    "price": "$1,540 - 8,857",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "202 2nd Ave S, Nashville, TN 37201",
+    "phone": "844-400-5453",
+    "price": "$1,577 - 4,676",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "570 Church St E, Brentwood, TN 37027",
+    "phone": "844-318-6586",
+    "price": "$1,269 - 1,759",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "1100 Players Ct, Nashville, TN 37211",
+    "phone": "844-637-9019",
+    "price": "$843 - 1,359",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "45 Vantage Way, Nashville, TN 37228",
+    "phone": "844-257-0490",
+    "price": "$1,195 - 2,755",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "2700 Charlotte Ave, Nashville, TN 37209",
+    "phone": "615-410-2585",
+    "price": "$1,475 - 2,750",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "111 17th Ave S, Nashville, TN 37203",
+    "phone": "629-888-0315",
+    "price": "$1,695 - 3,560",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "2000 Grand Ave, Nashville, TN 37212",
+    "phone": "844-850-0188",
+    "price": "$1,630 - 2,420",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "6800 Highway 70 S, Nashville, TN 37221",
+    "phone": "615-800-4994",
+    "price": "$1,159 - 7,494",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "865 Bellevue Rd, Nashville, TN 37221",
+    "phone": "615-800-4982",
+    "price": "$983 - 4,515",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "2101 Portland Ave, Nashville, TN 37212",
+    "phone": "844-859-8039",
+    "price": "$1,183 - 2,552",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "320 11th Ave, Nashville, TN 37203",
+    "phone": "877-837-1631",
+    "price": "$1,113 - 2,832",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "301 29th Ave N, Nashville, TN 37203",
+    "phone": "866-250-9948",
+    "price": "$1,300 - 2,450",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "210 11th Ave N, Nashville, TN 37203",
+    "phone": "615-866-0484",
+    "price": "$1,440 - 2,775",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "2600 Franklin Pike, Nashville, TN 37204",
+    "phone": "855-447-1775",
+    "price": "$1,380 - 2,980",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "111 Acklen Park Dr, Nashville, TN 37203",
+    "phone": "720-961-7339",
+    "price": "$1,284 - 2,784",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "645 Old Hickory Blvd, Nashville, TN 37209",
+    "phone": "615-349-8120",
+    "price": "$1,215 - 1,975",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "100 Ridgelake Pky, Nashville, TN 37209",
+    "phone": "844-320-4586",
+    "price": "$1,005 - 1,400",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "610 Sylvan Heights Way, Nashville, TN 37209",
+    "phone": "844-855-3605",
+    "price": "$1,150 - 3,200",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "100 Arbor Lake Blvd, Hermitage, TN 37076",
+    "phone": "629-777-8242",
+    "price": "$899 - 1,235",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "1515 N 5th Ave, Nashville, TN 37208",
+    "phone": "615-457-8450",
+    "price": "$1,187 - 2,591",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1600 McGavock St, Nashville, TN 37203",
+    "phone": "844-719-8696",
+    "price": "$1,420 - 2,907",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1515 Demonbreun St, Nashville, TN 37203",
+    "phone": "844-802-9793",
+    "price": "$1,525 - 11,000",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "909 Rosa L Parks Blvd, Nashville, TN 37208",
+    "phone": "844-382-0502",
+    "price": "$1,370 - 2,800",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "2350 Franklin Pike, Nashville, TN 37204",
+    "phone": "844-321-0940",
+    "price": "$1,164 - 2,525",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1221 Division St, Nashville, TN 37203",
+    "phone": "844-541-4865",
+    "price": "$1,540 - 8,857",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "202 2nd Ave S, Nashville, TN 37201",
+    "phone": "844-400-5453",
+    "price": "$1,577 - 4,676",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "570 Church St E, Brentwood, TN 37027",
+    "phone": "844-318-6586",
+    "price": "$1,269 - 1,759",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "1100 Players Ct, Nashville, TN 37211",
+    "phone": "844-637-9019",
+    "price": "$843 - 1,359",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "45 Vantage Way, Nashville, TN 37228",
+    "phone": "844-257-0490",
+    "price": "$1,195 - 2,755",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "2700 Charlotte Ave, Nashville, TN 37209",
+    "phone": "615-410-2585",
+    "price": "$1,475 - 2,750",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "111 17th Ave S, Nashville, TN 37203",
+    "phone": "629-888-0315",
+    "price": "$1,695 - 3,560",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "2000 Grand Ave, Nashville, TN 37212",
+    "phone": "844-850-0188",
+    "price": "$1,630 - 2,420",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "6800 Highway 70 S, Nashville, TN 37221",
+    "phone": "615-800-4994",
+    "price": "$1,159 - 7,494",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "865 Bellevue Rd, Nashville, TN 37221",
+    "phone": "615-800-4982",
+    "price": "$983 - 4,515",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "2101 Portland Ave, Nashville, TN 37212",
+    "phone": "844-859-8039",
+    "price": "$1,183 - 2,552",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "320 11th Ave, Nashville, TN 37203",
+    "phone": "877-837-1631",
+    "price": "$1,113 - 2,832",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "301 29th Ave N, Nashville, TN 37203",
+    "phone": "866-250-9948",
+    "price": "$1,300 - 2,450",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "210 11th Ave N, Nashville, TN 37203",
+    "phone": "615-866-0484",
+    "price": "$1,440 - 2,775",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "2600 Franklin Pike, Nashville, TN 37204",
+    "phone": "855-447-1775",
+    "price": "$1,380 - 2,980",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "111 Acklen Park Dr, Nashville, TN 37203",
+    "phone": "720-961-7339",
+    "price": "$1,284 - 2,784",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "645 Old Hickory Blvd, Nashville, TN 37209",
+    "phone": "615-349-8120",
+    "price": "$1,215 - 1,975",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "100 Ridgelake Pky, Nashville, TN 37209",
+    "phone": "844-320-4586",
+    "price": "$1,005 - 1,400",
+    "size": "1-2 Bedroom"
+  },
+  {
+    "location": "610 Sylvan Heights Way, Nashville, TN 37209",
+    "phone": "844-855-3605",
+    "price": "$1,150 - 3,200",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "100 Arbor Lake Blvd, Hermitage, TN 37076",
+    "phone": "629-777-8242",
+    "price": "$899 - 1,235",
+    "size": "1-3 Bedroom"
+  },
+  {
+    "location": "1515 N 5th Ave, Nashville, TN 37208",
+    "phone": "615-457-8450",
+    "price": "$1,187 - 2,591",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1600 McGavock St, Nashville, TN 37203",
+    "phone": "844-719-8696",
+    "price": "$1,420 - 2,907",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "1515 Demonbreun St, Nashville, TN 37203",
+    "phone": "844-802-9793",
+    "price": "$1,525 - 11,000",
+    "size": "Studio - 3 Bedroom"
+  },
+  {
+    "location": "909 Rosa L Parks Blvd, Nashville, TN 37208",
+    "phone": "844-382-0502",
+    "price": "$1,370 - 2,800",
+    "size": "Studio - 2 Bedroom"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1399",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1195",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Radnor)",
+    "phone": "(844) 610-7947",
+    "price": "$1250",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 585-1387",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1195",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Radnor)",
+    "phone": "(844) 610-7947",
+    "price": "$1250",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 585-1387",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(855) 233-2803",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(844) 434-3089",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(844) 434-3089",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(844) 434-3089",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Emery Place Condominiums)",
+    "phone": "(844) 783-5368",
+    "price": "$1149",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Abbington Park Condominiums)",
+    "phone": "(844) 434-3089",
+    "price": "$1575",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Quailtrail)",
+    "phone": "(844) 434-3089",
+    "price": "$1895",
+    "size": "3 Beds"
+  },
+   {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(844) 434-3089",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 320-2437",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 320-1732",
+    "price": "$1595",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Emery Place Condominiums)",
+    "phone": "(844) 783-5368",
+    "price": "$1149",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Abbington Park Condominiums)",
+    "phone": "(844) 434-3089",
+    "price": "$1575",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro)",
+    "phone": "(844) 434-3089",
+    "price": "$1595",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Emery Place Condominiums)",
+    "phone": "(844) 783-5368",
+    "price": "$1149",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Abbington Park Condominiums)",
+    "phone": "(844) 434-3089",
+    "price": "$1575",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Quailtrail)",
+    "phone": "(844) 434-3089",
+    "price": "$1895",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 818-9017",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 712-6188",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 513-8126",
+    "price": "$1595",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 818-9017",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 712-6188",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 513-8126",
+    "price": "$1595",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Abbington Park Condominiums)",
+    "phone": "(844) 434-3089",
+    "price": "$1575",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro, The Gulch)",
+    "phone": "(844) 310-5291",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-5055",
+    "price": "$1800",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 818-9017",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Talbot's Corner)",
+    "phone": "(844) 834-7886",
+    "price": "$800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 513-8126",
+    "price": "$1595",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Hillwood)",
+    "phone": "(844) 320-0980",
+    "price": "$2000",
+    "size": "4 Beds"
+  },
+   {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1450",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro, The Gulch)",
+    "phone": "(844) 310-5291",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-7996",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-5055",
+    "price": "$1800",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 818-9017",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(877) 503-2074",
+    "price": "$3199",
+    "size": "5 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 762-1357",
+    "price": "$1595",
+    "size": "3 Beds"
+  },
+   {
+    "location": " (3101 Brookview Forest Dr, Nashville, TN 37211)",
+    "price": "$1999"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1427"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1372"
+  },
+  {
+    "location": " (Tullahoma)",
+    "price": "$85"
+  },
+  {
+    "location": " (NASHVILLE)",
+    "price": "$1600"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$3500"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$600"
+  },
+  {
+    "location": " (NASHVILLE)",
+    "price": "$1100"
+  },
+  {
+    "location": " (Spring Hill - Maury County)",
+    "price": "$1364"
+  },
+  {
+    "location": " (Lewisburg)",
+    "price": "$700"
+  },
+  {
+    "location": " (37209)",
+    "price": "$1300"
+  },
+  {
+    "location": " (12 South)",
+    "price": "$886"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1750"
+  },
+  {
+    "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
+    "price": "$1995"
+  },
+  {
+    "location": " (Hillsboro/Belmont)",
+    "price": "$1300"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1750"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$600"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$799"
+  },
+  {
+    "location": " (1070 W Main, Hendersonville, TN 37075)",
+    "price": "$850"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$879"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1352"
+  },
+  {
+    "location": " (1301 Avery Park Ln, Mount Juliet, TN 37122)",
+    "price": "$2449"
+  },
+  {
+    "location": " (ashland city)",
+    "price": "$140"
+  },
+  {
+    "location": " (1336 Love Joy Ct)",
+    "price": "$1600"
+  },
+  {
+    "location": " (New Deal)",
+    "price": "$1200"
+  },
+  {
+    "location": " (3242 Panorama Dr)",
+    "price": "$1250"
+  },
+  {
+    "location": " (405 Toney Road)",
+    "price": "$1075"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1427"
+  },
+  {
+    "location": " (37064)",
+    "price": "$1700"
+  },
+  {
+    "location": " (Green Hills Village)",
+    "price": "$1850"
+  },
+  {
+    "location": " (Green Hills Village)",
+    "price": "$1275"
+  },
+  {
+    "location": " (1070 W Main, Hendersonville, TN 37075)",
+    "price": "$1130"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1429"
+  },
+  {
+    "location": " (Brentwood)",
+    "price": "$1456"
+  },
+  {
+    "location": " (900 TIFFANY LANE)",
+    "price": "$1059"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Brentwood, TN)",
+    "price": "$3405"
+  },
+  {
+    "location": " (3652 Blaze Dr, Murfreesboro, TN 37128)",
+    "price": "$1579"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1152"
+  },
+  {
+    "location": " (37027)",
+    "price": "$1515"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (1043 Daniel Ln, Spring Hill, TN 37174)",
+    "price": "$1995"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Downtown Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1549"
+  },
+  {
+    "location": " (Brentwood, TN)",
+    "price": "$1365"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1472"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1185"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$1299"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965"
+  },
+  {
+    "location": " (Brentwood, TN)",
+    "price": "$1165"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Franklin, TN)",
+    "price": "$1845"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1249"
+  },
+  {
+    "location": " (nashville, tn)",
+    "price": "$1000"
+  },
+  {
+    "location": " (Brentwood)",
+    "price": "$1700"
+  },
+  {
+    "location": " (nashville, tn)",
+    "price": "$844"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1369"
+  },
+  {
+    "location": " (Elliston, West End, Vanderbilt)",
+    "price": "$2749"
+  },
+  {
+    "location": " (nashville, tn)",
+    "price": "$1048"
+  },
+  {
+    "location": " (BAXTER TN.)",
+    "price": "$800"
+  },
+  {
+    "location": " (413 Jakes Ave, Murfreesboro)",
+    "price": "$1000"
+  },
+  {
+    "location": " (Lavergne)",
+    "price": "$780"
+  },
+  {
+    "location": " (Sylvan Park/Vandy)",
+    "price": "$1895"
+  },
+  {
+    "location": " (Franklin, TN)",
+    "price": "$700"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1500",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro, The Gulch)",
+    "phone": "(844) 310-5291",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 614-0437",
+    "price": "$1400",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-5055",
+    "price": "$1800",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 330-0704",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 508-2643",
+    "price": "$4650",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(877) 503-2074",
+    "price": "$3199",
+    "size": "5 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 227-8119",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 762-1357",
+    "price": "$1645",
+    "size": "3 Beds"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$1695"
+  },
+  {
+    "location": " (Nashville  Lease 2 Buy)",
+    "price": "$1155"
+  },
+  {
+    "location": " (Nashville region)",
+    "price": "$1710"
+  },
+  {
+    "location": " (White Bridge/Charlotte Area)",
+    "price": "$959"
+  },
+  {
+    "location": " (White Bridge/Charlotte Area)",
+    "price": "$959"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1230"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$925"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1435"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$959"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1030"
+  },
+  {
+    "location": " (Nashville - Centennial Park)",
+    "price": "$1360"
+  },
+  {
+    "location": " (nashville)",
+    "price": "$1325"
+  },
+  {
+    "location": " (Nashville - West End)",
+    "price": "$1515"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$1029"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1140"
+  },
+  {
+    "location": " (Columbia)",
+    "price": "$1201"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (Nashville/Live the Life you've Dreamed!)",
+    "price": "$1925"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$895"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059"
+  },
+  {
+    "location": " (Elliston Place, West End, Vanderbilt)",
+    "price": "$1499"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$925"
+  },
+  {
+    "location": " (Croley Court)",
+    "price": "$959"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$2345"
+  },
+  {
+    "location": " (865 Bellevue Rd, Nashville, TN 37221)",
+    "price": "$1082"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$919"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1310"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1349"
+  },
+  {
+    "location": " (Downtown)",
+    "price": "$1650"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059"
+  },
+  {
+    "location": " (6800 Highway 70 S, Nashville, TN 37221)",
+    "price": "$1411"
+  },
+  {
+    "location": " (Murfreesboro, TN)",
+    "price": "$900"
+  },
+  {
+    "location": " (GRAND OAK AT TOWNPARK)",
+    "price": "$1018"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (222 Polk Avenue)",
+    "price": "$1050"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1350"
+  },
+  {
+    "location": " (Nashville TN)",
+    "price": "$926"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$920"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$875"
+  },
+  {
+    "location": " (Belle Meade/Charlotte Pike Area)",
+    "price": "$685"
+  },
+  {
+    "location": " (nashville)",
+    "price": "$895"
+  },
+  {
+    "location": " (Cool Springs/Franklin/Williamson County)",
+    "price": "$1199"
+  },
+  {
+    "location": " (Elliston Place, West End, Vanderbilt)",
+    "price": "$1299"
+  },
+  {
+    "location": " (30th Ave N)",
+    "price": "$1430"
+  },
+  {
+    "location": " (Mount Juliet)",
+    "price": "$1135"
+  },
+  {
+    "location": " (12 South)",
+    "price": "$1709"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$850"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1474"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$925"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (3617 Baxter Ave)",
+    "price": "$1500"
+  },
+  {
+    "location": " (100 Mountainhigh Dr.)",
+    "price": "$950"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$1189"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$935"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$819"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$2500"
+  },
+  {
+    "location": " (Nashville/ BEST AMENITIES DOWNTOWN!)",
+    "price": "$1925"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1072"
+  },
+  {
+    "location": " (Nashville TN)",
+    "price": "$890"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$2005"
+  },
+  {
+    "location": " (7016 Penbrook Dr, Franklin, TN 37069)",
+    "price": "$2295"
+  },
+  {
+    "location": " (Hendersonville, TN)",
+    "price": "$1008"
+  },
+  {
+    "location": " (Hendersonville, TN)",
+    "price": "$888"
+  },
+  {
+    "location": " (Hendersonville, TN)",
+    "price": "$922"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1660"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$1250"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$925"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$920"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (madison)",
+    "price": "$975"
+  },
+   {
+    "location": " (West Nashville)",
+    "price": "$959"
+  },
+  {
+    "location": " (Nashville - West End)",
+    "price": "$1500"
+  },
+  {
+    "location": " (Green Hills Village)",
+    "price": "$1275"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1169"
+  },
+  {
+    "location": " (BELLE MEADE)",
+    "price": "$1999"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$959"
+  },
+  {
+    "location": " (Nashville - Historic Music Row District)",
+    "price": "$1665"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1407"
+  },
+  {
+    "location": " (Hermitage, TN)",
+    "price": "$1019"
+  },
+  {
+    "location": " (Hermitage)",
+    "price": "$875"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (Mount Juliet)",
+    "price": "$1395"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965"
+  },
+  {
+    "location": " (Springfield)",
+    "price": "$1120"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1628"
+  },
+  {
+    "location": " (Mount Juliet)",
+    "price": "$1395"
+  },
+  {
+    "location": " (Hermitage, TN)",
+    "price": "$939"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (Mount Juliet)",
+    "price": "$1395"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$1169"
+  },
+  {
+    "location": " (Mount Juliet)",
+    "price": "$1395"
+  },
+  {
+    "location": " (Hermitage, TN)",
+    "price": "$869"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1325"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$1518"
+  },
+  {
+    "location": " (4613 Kentucky Ave)",
+    "price": "$3000"
+  },
+  {
+    "location": " (Sylvan Park)",
+    "price": "$2000"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1375"
+  },
+  {
+    "location": " (Mt Pleasant, Tn)",
+    "price": "$700"
+  },
+  {
+    "location": " (1000 Amberwood Circle, Nashville, TN 37221)",
+    "price": "$1529"
+  },
+  {
+    "location": " (6112B California Ave)",
+    "price": "$2700"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1022"
+  },
+  {
+    "location": " (Brentwood, TN)",
+    "price": "$1199"
+  },
+  {
+    "location": " (900 TIFFANY LANE)",
+    "price": "$1329"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1487"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1850"
+  },
+  {
+    "location": " (WESTVIEW DR/MURFREESBORO/SMYRNA)",
+    "price": "$1640"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1310"
+  },
+  {
+    "location": " (37064)",
+    "price": "$1700"
+  },
+  {
+    "location": " (100 Mountainhigh Dr.)",
+    "price": "$950"
+  },
+  {
+    "location": " (2406 Belmont Blvd, Nashville, TN)",
+    "price": "$1325"
+  },
+  {
+    "location": " (BELLE MEADE)",
+    "price": "$1999"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965"
+  },
+  {
+    "location": " (WESTVIEW DR/MURFREESBORO/SMYRNA)",
+    "price": "$1640"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$1695"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$900"
+  },
+  {
+    "location": " (Murfreesobro)",
+    "price": "$650"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$2345"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1115"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1337"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$905"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$995"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$995"
+  },
+  {
+    "location": " (Nashville/Live the Life you've Dreamed!)",
+    "price": "$1925"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$995"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$995"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$995"
+  },
+  {
+    "location": " (1070 W Main, Hendersonville, TN 37075)",
+    "price": "$1135"
+  },
+  {
+    "location": " (Nashville - Vanderbilt University)",
+    "price": "$1901"
+  },
+  {
+    "location": " (2101 Portland Ave)",
+    "price": "$1790"
+  },
+  {
+    "location": " (900 TIFFANY LANE)",
+    "price": "$1359"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$790"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$950"
+  },
+  {
+    "location": " (nashville\tTN)",
+    "price": "$560"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1249"
+  },
+  {
+    "location": " (1005 HICKORY HILL LANE)",
+    "price": "$820"
+  },
+  {
+    "location": " (4960 EDMONDSON PIKE)",
+    "price": "$979"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1225"
+  },
+  {
+  {
+    "location": " (4960 Edmondson Pike)",
+    "price": "$979"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$790"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1097"
+  },
+  {
+    "location": " (The Gulch)",
+    "price": "$2499"
+  },
+  {
+    "location": " (Brentwood)",
+    "price": "$1314"
+  },
+  {
+    "location": " (laVergne)",
+    "price": "$1200"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1060"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1060"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$790"
+  },
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1500",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(SoBro, The Gulch)",
+    "phone": "(844) 310-5291",
+    "price": "$2100",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 891-6174",
+    "price": "$2250",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 614-0437",
+    "price": "$1500",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Cumberland Gardens)",
+    "phone": "(844) 887-7125",
+    "price": "$850",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(844) 310-5055",
+    "price": "$1800",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 310-5300",
+    "price": "$1350",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 629-2927",
+    "price": "$2900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(8th Ave South, Breeze Hill)",
+    "phone": "(844) 330-0704",
+    "price": "$2800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 397-0032",
+    "price": "$2295",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 508-2643",
+    "price": "$4650",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(877) 503-2074",
+    "price": "$3199",
+    "size": "5 Beds"
+  },
+  {
+    "location": "(Miro Meadows)",
+    "phone": "(844) 876-5926",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Charlotte Park)",
+    "phone": "(844) 892-0517",
+    "price": "$1100",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Hargis Heights)",
+    "phone": "(844) 289-7726",
+    "price": "$1500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 434-3089",
+    "price": "$1475",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Marrowbone)",
+    "phone": "(844) 778-3198",
+    "price": "$1695",
+    "size": "3 Beds"
   }
+
 ]
