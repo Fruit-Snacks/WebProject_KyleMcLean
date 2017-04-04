@@ -1,0 +1,122 @@
+[
+  {
+    "location": "(Downtown Nashville)",
+    "phone": "(844) 538-9754",
+    "price": "$1399",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Historic Edgefield)",
+    "phone": "(844) 793-7781",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(East End)",
+    "phone": "(877) 432-6013",
+    "price": "$1500",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 711-6208",
+    "price": "$1195",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(888) 923-3149",
+    "price": "$1100",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Glencliff Estates)",
+    "phone": "(888) 630-1984",
+    "price": "$1650",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 509-3762",
+    "price": "$2395",
+    "size": "4 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 783-5359",
+    "price": "$1800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Radnor)",
+    "phone": "(844) 610-7947",
+    "price": "$1250",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 865-5196",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 783-5368",
+    "price": "$1049",
+    "size": "2 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 233-2803",
+    "price": "$1575",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellshire Terrace)",
+    "phone": "(844) 865-5197",
+    "price": "$1395",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 585-1387",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(McMurray)",
+    "phone": "(844) 792-5991",
+    "price": "$1150",
+    "size": "2 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 322-8969",
+    "price": "$1050",
+    "size": "2 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 233-2803",
+    "price": "$1895",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 233-2803",
+    "price": "$1695",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 539-9802",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 516-3867",
+    "price": "$1950",
+    "size": "3 Beds"
+  }
+]

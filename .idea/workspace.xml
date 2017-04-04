@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e89cae6-0b32-4e80-b0dd-b3e200490a0f" name="Default" comment="cleaned up 2/18 craigs but left Not Listed in size">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-17.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-17.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-17.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-18.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-18.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-18.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-19.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-19.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-19.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-20.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-20.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-20.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-21.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-22.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-22.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-22.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-23.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-23.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-23.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-24.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-24.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-24.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-25.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-25.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-25.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-26.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-26.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-26.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-27.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-27.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-28.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-28.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-29.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-29.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-29.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-31.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-31.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-03-31.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-01.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-01.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-01.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-02.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-02.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-03.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-03.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-04-03.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled3-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled4-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-19.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-19.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-19.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-21.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-21.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-21.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-23.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-23.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-23.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-24.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-24.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-24.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-25.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-25.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-25.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-27.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-27.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-27.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-28.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-28.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-02-28.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-01.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-01.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-01.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-02.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-02.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-02.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-03.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-03.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-03.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-04.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-04.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-04.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-05.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-05.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-05.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-06.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-06.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-06.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-07.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-07.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-07.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-09.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-09.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-09.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-10.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-10.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-10.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-11.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-11.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-11.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-12.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-12.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-12.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-13.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-13.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-13.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-15.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-15.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-15.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-16.AptBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-16.CraigslsitBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-16.RentBriefs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Untitled.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Untitled1.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Untitled2.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Untitled3.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Briefs/Untitled4.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AptBriefs.py" afterPath="$PROJECT_DIR$/AptBriefs.py" />
+    </list>
+    <ignored path="WebProject_KyleMcLean.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebProject_KyleMcLean" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="2017-03-21.CraigslsitBriefs.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-29.RentBriefs.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-03-29.RentBriefs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-18CraigslistBriefs.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="3085" column="43" selection-start-line="3085" selection-start-column="43" selection-end-line="3085" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-02.Rent.com.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-02-02.Rent.com.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AptBriefs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AptBriefs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-17.AptBriefs.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-03-17.AptBriefs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled3.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled3.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled2.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled4.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled4.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ScrapeWithRequests.py" />
+        <option value="$PROJECT_DIR$/APNewsBriefsShell.py" />
+        <option value="$PROJECT_DIR$/APNewsBriefsToJSON.py" />
+        <option value="$PROJECT_DIR$/2017-01-22AptBriefs.json" />
+        <option value="$PROJECT_DIR$/RentBrief.py" />
+        <option value="$PROJECT_DIR$/2017-01-23RentBriefs.json" />
+        <option value="$PROJECT_DIR$/CraigslistBrief.py" />
+        <option value="$PROJECT_DIR$/ScrapeWithSelenium.py" />
+        <option value="$PROJECT_DIR$/2017-01-26CraigslistBriefs.json" />
+        <option value="$PROJECT_DIR$/stuff" />
+        <option value="$PROJECT_DIR$/2017-02-02CraigslistBriefs.json" />
+        <option value="$PROJECT_DIR$/hello.bat" />
+        <option value="$PROJECT_DIR$/2017-02-14.AptBrief.json" />
+        <option value="$PROJECT_DIR$/2017-02-18.AptBrief.json" />
+        <option value="$PROJECT_DIR$/RentBriefToJSON.py" />
+        <option value="$PROJECT_DIR$/AptBriefToJSON.py" />
+        <option value="$PROJECT_DIR$/Test.bat" />
+        <option value="$PROJECT_DIR$/CraigslistToJSON.py" />
+        <option value="$PROJECT_DIR$/2017-02-18.CraigslsitBriefs.json" />
+        <option value="$PROJECT_DIR$/2017-02-20.CraigslsitBriefs.json" />
+        <option value="$PROJECT_DIR$/Briefs/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/ScrapeWithSeleniumParseSendToJSON.py" />
+        <option value="$PROJECT_DIR$/Briefs/Untitled2.ipynb" />
+        <option value="$PROJECT_DIR$/Briefs/Untitled1.ipynb" />
+        <option value="$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json" />
+        <option value="$PROJECT_DIR$/AptBriefs.py" />
+        <option value="$PROJECT_DIR$/Briefs/Untitled3.ipynb" />
+        <option value="$PROJECT_DIR$/Briefs/Untitled4.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebProject_KyleMcLean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebProject_KyleMcLean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebProject_KyleMcLean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebProject_KyleMcLean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebProject_KyleMcLean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Briefs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2375297" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\PycharmProjects\CSC3130\WebProject_KyleMcLean\Briefs" />
+      <recent name="C:\Users\Owner\PycharmProjects\CSC3130\WebProject_KyleMcLean\Briefs2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CraigslistToJSON (1)">
+    <configuration default="false" name="CraigslistToJSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="C:\Users\Owner\PycharmProjects\CSC3130\WebProject_KyleMcLean\Briefs\CraigslistToJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RentBriefToJSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RentBriefToJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AptBriefToJSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AptBriefToJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RentBrief" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RentBrief.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CraigslistToJSON (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CraigslistToJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="studyTest" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.CraigslistToJSON" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RentBriefToJSON" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AptBriefToJSON" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RentBrief" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CraigslistToJSON" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AptBriefToJSON" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RentBriefToJSON" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RentBrief" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_WebProject_KyleMcLean - 2017.01.17 at 13h 21m 03s.xml">
+      <configuration name="Unittests in WebProject_KyleMcLean" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2642819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24004684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22716628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13326283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20140515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added my sites to scapewithrequests.py" />
+    <MESSAGE value="Scraping and parsing html" />
+    <MESSAGE value="scraping and parsing with json" />
+    <MESSAGE value="Apartments.com scrape shell" />
+    <MESSAGE value="Apartments.com scrape to JSON" />
+    <MESSAGE value="rent.com scrape shell" />
+    <MESSAGE value="Rent.com scrape to JSON" />
+    <MESSAGE value="craigslist shell not done need date and fix size for posts with no squar footage" />
+    <MESSAGE value="craigslist brief to JSON not done still need to fix size" />
+    <MESSAGE value="craigslist brief to JSON is only getting first post. NonType error for string" />
+    <MESSAGE value="fixed craigslist brief to JSON. Craigslist some times does not list location or price so I made an if else statments to check for listing. Still need to fix price" />
+    <MESSAGE value="assignment 4" />
+    <MESSAGE value="Got task schedular to work for rentToJSON" />
+    <MESSAGE value="fixed aptBriefToJSON location issue. Switch the for loop to look for all diamond placards" />
+    <MESSAGE value="Moved json files into a Brief folder and added Craigslist to test.bat" />
+    <MESSAGE value="added size to CraigslistToJSON and removed whitespaces in size" />
+    <MESSAGE value="bunch of data from the past few weeks. No changes to code" />
+    <MESSAGE value="cleaned up 2/18 craigs but left Not Listed in size" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up 2/18 craigs but left Not Listed in size" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CraigslistToJSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentBriefToJSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="43" column="99" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.CraigslsitBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-19.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-20.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeWithRequests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeWithSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeWithSeleniumParseSendToJSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="116" column="14" selection-start-line="1" selection-start-column="1" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18.CraigslsitBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="495" column="4" selection-start-line="1" selection-start-column="1" selection-end-line="500" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="144" column="4" selection-start-line="1" selection-start-column="1" selection-end-line="150" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18.AptBrief.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="144" column="4" selection-start-line="1" selection-start-column="2" selection-end-line="150" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-17.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="114" column="4" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-15.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="112" column="21" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-14.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="113" column="16" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-13.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="115" column="3" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-12.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-11.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="107" column="20" selection-start-line="1" selection-start-column="1" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-10.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-09.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="115" column="3" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-08.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="112" column="19" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-02RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="115" column="3" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-07.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="116" column="16" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-05RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="112" column="20" selection-start-line="1" selection-start-column="1" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-05CraigslistBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8690">
+          <caret line="395" column="20" selection-start-line="1" selection-start-column="1" selection-end-line="400" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-02CraigslistBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7840">
+          <caret line="392" column="4" selection-start-line="1" selection-start-column="2" selection-end-line="400" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-01-26CraigslistBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="398" column="4" selection-start-line="1" selection-start-column="1" selection-end-line="400" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-01-23RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="113" column="20" selection-start-line="1" selection-start-column="2" selection-end-line="120" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled1-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/.ipynb_checkpoints/Untitled3-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-01-17.Belmont.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-16.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="97" column="3" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-19.CraigslsitBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-18.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-19.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-19.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-20.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-20.CraigslsitBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-21.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-29.RentBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="3085" column="43" selection-start-line="3085" selection-start-column="43" selection-end-line="3085" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-02-02.Rent.com.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AptBriefs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-17.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

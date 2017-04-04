@@ -1,0 +1,122 @@
+[
+  {
+    "location": "(SoBro)",
+    "phone": "(615) 647-6614",
+    "price": "$1281 - $2890",
+    "size": "Studio-2 Beds"
+  },
+  {
+    "location": "(Hadley Park)",
+    "phone": "(877) 581-0418",
+    "price": "$1200",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Trinity Lane)",
+    "phone": "(844) 224-4665",
+    "price": "$2899",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(855) 868-2810",
+    "price": "$1150",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 771-0968",
+    "price": "$1150",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Melrose)",
+    "phone": "(855) 493-4840",
+    "price": "$2049",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Rolling Acres)",
+    "phone": "(844) 284-9744",
+    "price": "$2500",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Rolling Acres)",
+    "phone": "(844) 286-8950",
+    "price": "$4250",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Sylvan Park)",
+    "phone": "(855) 233-2453",
+    "price": "$3500",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Rosebank)",
+    "phone": "(844) 575-4839",
+    "price": "$1475",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 658-4974",
+    "price": "$1050",
+    "size": "1 Bed"
+  },
+  {
+    "location": null,
+    "phone": "(844) 783-5359",
+    "price": "$1800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(866) 572-0496",
+    "price": "$1700",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Chesapeake)",
+    "phone": "(844) 659-0632",
+    "price": "$950",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 298-6288",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 783-5368",
+    "price": "$995",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 585-1387",
+    "price": "$2000",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 322-8969",
+    "price": "$1000",
+    "size": "2 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 283-2447",
+    "price": "$1895",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 283-2447",
+    "price": "$1695",
+    "size": "3 Beds"
+  }
+]

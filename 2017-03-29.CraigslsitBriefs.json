@@ -1,0 +1,602 @@
+[
+  {
+    "location": " (Madison)",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": " (West End, Vanderbilt, Midtown, Elliston)",
+    "price": "$1549",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$895",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$910",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$925",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$925",
+    "size": "2br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$820",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (madison)",
+    "price": "$925",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin, Cool Springs, Nashville, Galle)",
+    "price": "Not listed",
+    "size": "1br"
+  },
+  {
+    "location": " (madison)",
+    "price": "$785",
+    "size": "Not listed"
+  },
+  {
+    "location": " (madison)",
+    "price": "$925",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1650 Cason, Murfreesboro, TN 37128)",
+    "price": "$1005",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$785",
+    "size": "1br"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1452",
+    "size": "Not listed"
+  },
+  {
+    "location": " (I-24 Harding Place)",
+    "price": "$744",
+    "size": "1br"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1370",
+    "size": "Not listed"
+  },
+  {
+    "location": " (I-24 Harding Place)",
+    "price": "$789",
+    "size": "1br"
+  },
+  {
+    "location": " (Middle Tennessee State University, MTSU)",
+    "price": "$449",
+    "size": "Not listed"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$789",
+    "size": "Not listed"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1299",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$957",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$979",
+    "size": "Not listed"
+  },
+  {
+    "location": " (VANDERBILT/MIDTOWN/WEST END)",
+    "price": "$995",
+    "size": "Not listed"
+  },
+  {
+    "location": " (900 Tiffany Lane)",
+    "price": "$1059",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$793",
+    "size": "Not listed"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$1149",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Hermitage, TN)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$1760",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1815",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Middle Tennessee State University, MTSU)",
+    "price": "$449",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$951",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1506 Burrows Ave, Murfreesboro, TN 37128)",
+    "price": "$2069",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1288",
+    "size": "Not listed"
+  },
+  {
+    "location": " (South Nashville)",
+    "price": "$800",
+    "size": "1br"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1699",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1259",
+    "size": "Not listed"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$1349",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, West End, Vanderbilt)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1999",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$2800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin/Cool Springs/Nashville/Brentwoo)",
+    "price": "Not listed",
+    "size": "3br"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$948",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville)",
+    "price": "$1585",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1279",
+    "size": "Not listed"
+  },
+  {
+    "location": " (5901 Old Hickory Boulevard, Hermitage, TN 37076)",
+    "price": "$1395",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1408",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1650",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1000",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$1250",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$997",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$915",
+    "size": "Not listed"
+  },
+  {
+    "location": " (207 National Drive, Murfreesboro, TN 37128)",
+    "price": "$850",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1183",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1375",
+    "size": "Not listed"
+  },
+  {
+    "location": " (4792 Trousdale)",
+    "price": "$1600",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Altitude Apartments)",
+    "price": "$764",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Gallatin)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (300 Hickory Hollow Place, Antioch, TN 37013)",
+    "price": "$834",
+    "size": "Not listed"
+  },
+  {
+    "location": " (E. Nashville)",
+    "price": "$1250",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$958",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$889",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1304 Ashwood Ave)",
+    "price": "$2950",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$805",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1575",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Brentwood)",
+    "price": "$1317",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$955",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, West End, Vanderbilt)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Southeast)",
+    "price": "$1198",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$760",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$915",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Cool Springs/Franklin/Williamson County)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$918",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1940 Portway Rd, Spring Hill, TN 37174)",
+    "price": "$1869",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1304 Ashwood Ave)",
+    "price": "$2950",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison, TN)",
+    "price": "$800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1185",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1750",
+    "size": "Not listed"
+  },
+  {
+    "location": " (100 Mountainhigh Dr.)",
+    "price": "$960",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1059",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$864",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Middle Tennessee State University, MTSU)",
+    "price": "$459",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Thompson Station)",
+    "price": "$1710",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1361",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West End, Vanderbilt, Midtown, Elliston)",
+    "price": "$1549",
+    "size": "1br"
+  },
+  {
+    "location": " (Spring Hill)",
+    "price": "$1725",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1295",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Village South)",
+    "price": "$1200",
+    "size": "Not listed"
+  },
+  {
+    "location": " (3700 Old Greenbrier Pike)",
+    "price": "$1010",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$979",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Cool Springs/Franklin/Williamson County)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West Nashville, White Bridge Road)",
+    "price": "$1179",
+    "size": "Not listed"
+  }
+]

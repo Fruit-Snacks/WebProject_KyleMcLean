@@ -1,0 +1,502 @@
+[
+  {
+    "location": " (Green Hills)",
+    "price": "$1760",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Germantown)",
+    "price": "$1216",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Columbia)",
+    "price": "$700",
+    "size": "1br"
+  },
+  {
+    "location": " (2892 Academy Road)",
+    "price": "$1100",
+    "size": "Not listed"
+  },
+  {
+    "location": " (West End, Vanderbilt, Midtown, Elliston)",
+    "price": "$2749",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Antioch)",
+    "price": "$1500",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Lebanon)",
+    "price": "$1100",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Thompson Station)",
+    "price": "$1170",
+    "size": "1br"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin/Cool Springs/Nashville/Brentwoo)",
+    "price": "Not listed",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Mt. Juliet)",
+    "price": "$2400",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1395",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Madison)",
+    "price": "$1275",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$1265",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Germantown)",
+    "price": "$1262",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1152",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$460",
+    "size": "5br"
+  },
+  {
+    "location": " (1125 Westwood Boulevard)",
+    "price": "$1635",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Hendersonville)",
+    "price": "$225",
+    "size": "1br"
+  },
+  {
+    "location": " (242 Morton AV)",
+    "price": "$1695",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1049",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1650 Cason, Murfreesboro, TN 37128)",
+    "price": "$1015",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1750",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$1175",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Historic Buena Vista)",
+    "price": "$3150",
+    "size": "Not listed"
+  },
+  {
+    "location": " (207 National Drive, Murfreesboro, TN 37128)",
+    "price": "$821",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Southlake)",
+    "price": "$1550",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Glencliff)",
+    "price": "$1550",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Glencliff)",
+    "price": "$1200",
+    "size": "Not listed"
+  },
+  {
+    "location": " (5800B saundersville rd)",
+    "price": "$1150",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1315 Mercury Blvd)",
+    "price": "$1500",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1452",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Crestview)",
+    "price": "$815",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1500",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Green Hills)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Spring Hill)",
+    "price": "$1500",
+    "size": "3br"
+  },
+  {
+    "location": " (Historic Buena Vista)",
+    "price": "$3100",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1052 Daniel Ln, Spring Hill, TN 37174)",
+    "price": "$1999",
+    "size": "Not listed"
+  },
+  {
+    "location": " (3102 Aidan Ln, Mount Juliet, TN 37122)",
+    "price": "$1699",
+    "size": "Not listed"
+  },
+  {
+    "location": " (2832 Meadow Gln, Mount Juliet, TN 37122)",
+    "price": "$1649",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1301 Avery Park Ln, Mount Juliet, TN 37122)",
+    "price": "$2379",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Rockvale)",
+    "price": "$950",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$400",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$400",
+    "size": "3br"
+  },
+  {
+    "location": "Not listed",
+    "price": "$825",
+    "size": "Not listed"
+  },
+  {
+    "location": "Not listed",
+    "price": "$1100",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Lebanon)",
+    "price": "$850",
+    "size": "Not listed"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$1800",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Franklin)",
+    "price": "$1650",
+    "size": "Not listed"
+  },
+  {
+    "location": " (La Vergne)",
+    "price": "$1189",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1152",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville- Nippers Corner- close to Lenox Village)",
+    "price": "$1650",
+    "size": "Not listed"
+  },
+  {
+    "location": " (, ,  37075)",
+    "price": "$805",
+    "size": "Not listed"
+  },
+  {
+    "location": " (4487 Post Place, Apt. 24)",
+    "price": "$1499",
+    "size": "Not listed"
+  },
+  {
+    "location": " (119 Mary Joe Martin Drive)",
+    "price": "$1599",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Thompson's  Satation)",
+    "price": "$895",
+    "size": "Not listed"
+  },
+  {
+    "location": " (417 36th Ave  Nashville, TN)",
+    "price": "$1195",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Buchanan Arts district)",
+    "price": "$1500",
+    "size": "2br"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1452",
+    "size": "Not listed"
+  },
+  {
+    "location": " (old hickory)",
+    "price": "$650",
+    "size": "1br"
+  },
+  {
+    "location": " (White Bridge Road)",
+    "price": "$1750",
+    "size": "3br"
+  },
+  {
+    "location": " (207 National Drive, Murfreesboro, TN 37128)",
+    "price": "$971",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Shelbyville)",
+    "price": "$200",
+    "size": "2br"
+  },
+  {
+    "location": " (1650 Cason, Murfreesboro, TN 37128)",
+    "price": "$1112",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1500 Brentridge, Antioch, TN 37013)",
+    "price": "$805",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1250",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Smyrna)",
+    "price": "$1795",
+    "size": "Not listed"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$2195",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1395",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1395",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville)",
+    "price": "$1995",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1430 Bell Road, Nashville, TN 37211)",
+    "price": "$1452",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1345",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Mt Juliet)",
+    "price": "$1450",
+    "size": "3br"
+  },
+  {
+    "location": " (120 Cabin Branch Cir, Hendersonville, TN 37075)",
+    "price": "$1879",
+    "size": "Not listed"
+  },
+  {
+    "location": " (MURFREESBORO)",
+    "price": "$870",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Lebanon)",
+    "price": "$1000",
+    "size": "Not listed"
+  },
+  {
+    "location": " (119 Glen Cove Trail)",
+    "price": "$1050",
+    "size": "2br"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$885",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1055",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Southern Hills)",
+    "price": "$900",
+    "size": "Not listed"
+  },
+  {
+    "location": " (hendersonville)",
+    "price": "$875",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$965",
+    "size": "Not listed"
+  },
+  {
+    "location": " (MURFREESBORO, TN)",
+    "price": "$950",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1205",
+    "size": "Not listed"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$3150",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Donelson)",
+    "price": "$1395",
+    "size": "3br"
+  },
+  {
+    "location": " (East Nashville)",
+    "price": "$925",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Nashville, TN)",
+    "price": "$1152",
+    "size": "Not listed"
+  },
+  {
+    "location": " (5109 Cloverhill Dr, Murfreesboro, TN 37128)",
+    "price": "$1999",
+    "size": "Not listed"
+  },
+  {
+    "location": " (Murfreesboro)",
+    "price": "$1020",
+    "size": "Not listed"
+  },
+  {
+    "location": " (2511 Parkwood Dr, Murfreesboro, TN 37128)",
+    "price": "$1599",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1250 Timber Creek Dr, Murfreesboro, TN 37128)",
+    "price": "$1849",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1916 Colyn Ave, Murfreesboro, TN 37128)",
+    "price": "$1629",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1916 Colyn Ave, Murfreesboro, TN 37128)",
+    "price": "$1599",
+    "size": "Not listed"
+  },
+  {
+    "location": " (2205 Wimbledon Cir, Franklin, TN 37069)",
+    "price": "$2495",
+    "size": "Not listed"
+  },
+  {
+    "location": " (4620 Van Leer Ct, Nolensville, TN 37135)",
+    "price": "$2299",
+    "size": "Not listed"
+  },
+  {
+    "location": " (117 Irvine Ln, Franklin, TN 37064)",
+    "price": "$2495",
+    "size": "Not listed"
+  },
+  {
+    "location": " (4620 Van Leer Ct, Nolensville, TN 37135)",
+    "price": "$2299",
+    "size": "Not listed"
+  },
+  {
+    "location": " (1250 Timber Creek Dr, Murfreesboro, TN 37128)",
+    "price": "$1849",
+    "size": "Not listed"
+  }
+]

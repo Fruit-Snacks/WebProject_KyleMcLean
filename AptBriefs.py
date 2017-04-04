@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # Scrape APNewsBriefs with requests
 urlAPNewsBriefs = 'https://www.apartments.com/nashville-tn/?bb=qrwyv87s3Ig4_x5mY'
 pageAPNewsBriefs = requests.get(urlAPNewsBriefs)
-
+# j
 # Prepare for parsing APNewsBriefs with BeautifulSoup
 soupAPNewsBriefs = BeautifulSoup(pageAPNewsBriefs.content, 'lxml')
 

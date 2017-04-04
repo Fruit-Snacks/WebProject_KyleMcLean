@@ -1,0 +1,122 @@
+[
+  {
+    "location": "(SoBro)",
+    "phone": "(615) 647-6614",
+    "price": "$1281 - $2890",
+    "size": "Studio-2 Beds"
+  },
+  {
+    "location": "(Trinity Lane)",
+    "phone": "(844) 224-4665",
+    "price": "$2799",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Bellmont-Hillsboro)",
+    "phone": "(855) 868-2810",
+    "price": "$1150",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(West End Park)",
+    "phone": "(844) 771-0968",
+    "price": "$1095",
+    "size": "1 Bed"
+  },
+  {
+    "location": "(Melrose)",
+    "phone": "(855) 493-4840",
+    "price": "$2049",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Lockeland Springs)",
+    "phone": "(844) 550-3048",
+    "price": "$2000",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(Sylvan Park)",
+    "phone": "(855) 233-2453",
+    "price": "$2995",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(844) 264-1373",
+    "price": "$1050",
+    "size": "1 Bed"
+  },
+  {
+    "location": null,
+    "phone": "(844) 583-7601",
+    "price": "$1800",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Green Hills)",
+    "phone": "(866) 572-0496",
+    "price": "$1700",
+    "size": "2 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 298-6288",
+    "price": "$1450",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(River Glen)",
+    "phone": "(844) 806-6764",
+    "price": "$1545",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(844) 259-6257",
+    "price": "$995",
+    "size": "2 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 283-2447",
+    "price": "$1495",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(844) 893-7309",
+    "price": "$1950",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 283-2447",
+    "price": "$1895",
+    "size": "3 Beds"
+  },
+  {
+    "location": null,
+    "phone": "(855) 283-2447",
+    "price": "$1725",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Villages of Brentwood)",
+    "phone": "(855) 283-2447",
+    "price": "$1895",
+    "size": "4 Beds"
+  },
+  {
+    "location": "(Williamsport)",
+    "phone": "(844) 816-9889",
+    "price": "$1900",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Woodland Point)",
+    "phone": "(855) 283-2447",
+    "price": "$1550",
+    "size": "3 Beds"
+  }
+]
