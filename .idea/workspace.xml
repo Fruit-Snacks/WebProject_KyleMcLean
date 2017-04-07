@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e89cae6-0b32-4e80-b0dd-b3e200490a0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CraigslsitData.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2017-04-06.CraigslsitBriefs.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2017-04-06.RentBriefs.json" afterPath="$PROJECT_DIR$/RentData.json" />
+    <list default="true" id="3e89cae6-0b32-4e80-b0dd-b3e200490a0f" name="Default" comment="cleaned craigslistData">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RentData.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-19.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-19.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-20.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-20.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-22.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-22.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-23.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-23.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-24.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-24.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-25.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-25.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-03-26.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-03-26.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-04-01.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-04-01.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-04-02.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-04-02.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-04-03.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-04-03.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-04-04.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-04-04.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-04-05.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/2017-04-05.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-01-26CraigslistBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-01-26CraigslistBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-02-02CraigslistBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-02-02CraigslistBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-02-07.RentBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-02-07.RentBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-02-09.RentBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-02-09.RentBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-02-18.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-02-18.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json" afterPath="$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-15.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-15.CraigslsitBriefs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-16.CraigslsitBriefs.json" afterPath="$PROJECT_DIR$/Briefs/Briefs2/2017-03-16.CraigslsitBriefs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CraigslsitData.json" afterPath="$PROJECT_DIR$/CraigslsitData.json" />
     </list>
     <ignored path="WebProject_KyleMcLean.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +26,8 @@
             <file leaf-file-name="CraigslsitData.json" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/CraigslsitData.json">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="666">
-                    <caret line="1946" column="0" selection-start-line="1946" selection-start-column="0" selection-end-line="1946" selection-end-column="0" />
+                  <state relative-caret-position="-162">
+                    <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
                     <folding />
                   </state>
                 </provider>
@@ -130,8 +107,8 @@
       <file leaf-file-name="2017-03-10.CraigslsitBriefs.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-03-10.CraigslsitBriefs.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -636,7 +613,8 @@
     <MESSAGE value="bunch of data from the past few weeks. No changes to code" />
     <MESSAGE value="cleaned up 2/18 craigs but left Not Listed in size" />
     <MESSAGE value="used jupyter notebook to group locations" />
-    <option name="LAST_COMMIT_MESSAGE" value="used jupyter notebook to group locations" />
+    <MESSAGE value="cleaned craigslistData" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned craigslistData" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1027,14 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CraigslsitData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="1946" column="0" selection-start-line="1946" selection-start-column="0" selection-end-line="1946" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-03-14.CraigslsitBriefs.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-44">
@@ -1043,10 +1013,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CraigslsitData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-03-10.CraigslsitBriefs.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding />
         </state>
       </provider>
