@@ -6,22 +6,10 @@
     "size": "Studio-2 Beds"
   },
   {
-    "location": "(Hadley Park)",
-    "phone": "(877) 586-0964",
-    "price": "$1200",
-    "size": "3 Beds"
-  },
-  {
     "location": "(West End Park)",
     "phone": "(877) 586-1016",
     "price": "$1650",
     "size": "2 Beds"
-  },
-  {
-    "location": "(Sunnyside)",
-    "phone": "(888) 671-6358",
-    "price": "$2480",
-    "size": "3 Beds"
   },
   {
     "location": "(Sunnyside)",
@@ -30,9 +18,15 @@
     "size": "3 Beds"
   },
   {
+    "location": "(Sunnyside)",
+    "phone": "(888) 671-6358",
+    "price": "$2480",
+    "size": "3 Beds"
+  },
+  {
     "location": "(Trinity Lane)",
     "phone": "(888) 691-1346",
-    "price": "$2700",
+    "price": "$2600",
     "size": "3 Beds"
   },
   {
@@ -78,16 +72,16 @@
     "size": "3 Beds"
   },
   {
+    "location": null,
+    "phone": "(844) 248-0109",
+    "price": "$1200",
+    "size": "2 Beds"
+  },
+  {
     "location": "(Green Hills)",
     "phone": "(877) 512-6859",
     "price": "$1650",
     "size": "2 Beds"
-  },
-  {
-    "location": "(River Glen)",
-    "phone": "(844) 298-6288",
-    "price": "$1450",
-    "size": "3 Beds"
   },
   {
     "location": "(River Glen)",
@@ -117,6 +111,12 @@
     "location": null,
     "phone": "(888) 344-5489",
     "price": "$1675",
+    "size": "3 Beds"
+  },
+  {
+    "location": "(Whispering Hills)",
+    "phone": "(866) 580-8639",
+    "price": "$1850",
     "size": "3 Beds"
   }
 ]

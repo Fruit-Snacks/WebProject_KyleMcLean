@@ -48,7 +48,7 @@
     "price": "$1175"
   },
   {
-    "location": " (Downtown Nashville)",
+    "location": " (Downtown)",
     "price": "$1249"
   },
   {
@@ -76,7 +76,7 @@
     "price": "$965"
   },
   {
-    "location": " (Downtown Nashville)",
+    "location": " (Downtown)",
     "price": "$1249"
   },
   {
@@ -96,11 +96,11 @@
     "price": "$715"
   },
   {
-    "location": " (West End/ Vanderbilt/ Medical Center)",
+    "location": " (West End)",
     "price": "$1153"
   },
   {
-    "location": " (Vandy/Green Hills area)",
+    "location": " (Green Hills)",
     "price": "$1550"
   },
   {
@@ -128,7 +128,7 @@
     "price": "$1399"
   },
   {
-    "location": " (WEST END NEAR VANDERBILT)",
+    "location": " (West End)",
     "price": "$1720"
   },
   {
@@ -172,7 +172,7 @@
     "price": "$677"
   },
   {
-    "location": " (1101 18th Ave S)",
+    "location": " (12th South)",
     "price": "$1400"
   },
   {
@@ -220,7 +220,7 @@
     "price": "$1059"
   },
   {
-    "location": " (West End/ Vanderbilt/ Medical Center)",
+    "location": " (West End)",
     "price": "$1250"
   },
   {
@@ -268,7 +268,7 @@
     "price": "$785"
   },
   {
-    "location": " (west meade park / belle meade)",
+    "location": " (Belle Meade)",
     "price": "$3500"
   },
   {
@@ -296,13 +296,13 @@
     "price": "$800"
   },
   {
-    "location": "(Downtown Nashville)",
+    "location": "(Downtown)",
     "phone": "(844) 538-9754",
     "price": "$1399",
     "size": "1 Bed"
   },
   {
-    "location": "(Historic Edgefield)",
+    "location": "(Edgefield)",
     "phone": "(844) 793-7781",
     "price": "$2000",
     "size": "2 Beds"
