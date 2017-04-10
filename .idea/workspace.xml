@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e89cae6-0b32-4e80-b0dd-b3e200490a0f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled12.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled12.ipynb" />
     </list>
     <ignored path="WebProject_KyleMcLean.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -613,7 +612,8 @@
     <MESSAGE value="used jupyter notebook to group locations" />
     <MESSAGE value="cleaned craigslistData" />
     <MESSAGE value="replaced the &quot; ( issue in craigslistData" />
-    <option name="LAST_COMMIT_MESSAGE" value="replaced the &quot; ( issue in craigslistData" />
+    <MESSAGE value="13 ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
