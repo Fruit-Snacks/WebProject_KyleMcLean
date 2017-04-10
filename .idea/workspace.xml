@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e89cae6-0b32-4e80-b0dd-b3e200490a0f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Briefs/Untitled12.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Briefs/Untitled13.ipynb" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chart.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled10.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled10.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled11.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled11.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled14.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled14.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled15.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled15.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Briefs/Untitled9.ipynb" afterPath="$PROJECT_DIR$/Briefs/Untitled9.ipynb" />
     </list>
     <ignored path="WebProject_KyleMcLean.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,64 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2017-02-21.RentBriefs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-21.RentBriefs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-02-23.RentBriefs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-23.RentBriefs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2005">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-02-25.CraigslsitBriefs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/2017-02-25.CraigslsitBriefs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2112">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-02-18CraigslistBriefs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/2017-02-18CraigslistBriefs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="331" column="17" selection-start-line="331" selection-start-column="17" selection-end-line="331" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Untitled10.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/Untitled10.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Untitled9.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Briefs/Untitled9.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Untitled11.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Briefs/Untitled11.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
@@ -113,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Untitled14.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Untitled14.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Briefs/Untitled14.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -122,11 +64,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Untitled15.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Untitled15.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Briefs/Untitled15.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chart.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding>
+                <element signature="e#785#798#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plotly.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/plotly/plotly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled20.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled20.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Untitled19.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Untitled19.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-22.AptBriefs.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.AptBriefs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/api/v2/users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/api/v2/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ScrapeWithSelenium.py" />
-        <option value="$PROJECT_DIR$/2017-01-26CraigslistBriefs.json" />
         <option value="$PROJECT_DIR$/stuff" />
         <option value="$PROJECT_DIR$/2017-02-02CraigslistBriefs.json" />
         <option value="$PROJECT_DIR$/hello.bat" />
@@ -197,6 +207,8 @@
         <option value="$PROJECT_DIR$/Briefs/Untitled13.ipynb" />
         <option value="$PROJECT_DIR$/Briefs/Untitled14.ipynb" />
         <option value="$PROJECT_DIR$/Briefs/Untitled11.ipynb" />
+        <option value="$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.AptBriefs.json" />
+        <option value="$PROJECT_DIR$/chart.py" />
       </list>
     </option>
   </component>
@@ -298,7 +310,7 @@
       <recent name="C:\Users\Owner\PycharmProjects\CSC3130\WebProject_KyleMcLean\Briefs2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CraigslistToJSON (1)">
+  <component name="RunManager" selected="Python.chart">
     <configuration default="false" name="CraigslistToJSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,23 +362,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="RentBrief" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="WebProject_KyleMcLean" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RentBrief.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="CraigslistToJSON (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -380,6 +375,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="WebProject_KyleMcLean" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CraigslistToJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProject_KyleMcLean" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -535,16 +547,16 @@
       <item index="0" class="java.lang.String" itemvalue="Python.CraigslistToJSON" />
       <item index="1" class="java.lang.String" itemvalue="Python.RentBriefToJSON" />
       <item index="2" class="java.lang.String" itemvalue="Python.AptBriefToJSON" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RentBrief" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.chart" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CraigslistToJSON" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AptBriefToJSON" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RentBriefToJSON" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RentBrief" />
+        <item index="0" class="java.lang.String" itemvalue="Python.chart" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CraigslistToJSON (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CraigslistToJSON" />
+        <item index="3" class="java.lang.String" itemvalue="Python.AptBriefToJSON" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RentBriefToJSON" />
       </list>
     </recent_temporary>
   </component>
@@ -564,9 +576,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25171867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24004684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22716628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -604,69 +616,14 @@
     <MESSAGE value="cleaned craigslistData" />
     <MESSAGE value="replaced the &quot; ( issue in craigslistData" />
     <MESSAGE value="13 ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 ipynb" />
+    <MESSAGE value="15 ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="15 ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2017-03-31.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12551">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-29.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11495">
-          <caret line="52" column="25" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-26.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="578" column="6" selection-start-line="576" selection-start-column="2" selection-end-line="580" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-25.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="592" column="5" selection-start-line="586" selection-start-column="2" selection-end-line="595" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-24.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2176">
-          <caret line="474" column="5" selection-start-line="471" selection-start-column="2" selection-end-line="475" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-23.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7183">
-          <caret line="248" column="5" selection-start-line="246" selection-start-column="2" selection-end-line="250" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-03-22.CraigslsitBriefs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1243">
-          <caret line="518" column="5" selection-start-line="516" selection-start-column="2" selection-end-line="520" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017-03-21.CraigslsitBriefs.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-787">
@@ -783,14 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CraigslsitData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -973,7 +922,7 @@
     <entry file="file://$PROJECT_DIR$/Briefs/Untitled9.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="-1" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -994,7 +943,78 @@
     <entry file="file://$PROJECT_DIR$/Briefs/Untitled11.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled15.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CraigslsitData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/api/v2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Briefs2/2017-02-22.AptBriefs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/api/v2/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#785#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/plotly/plotly/plotly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled20.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Briefs/Untitled19.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
         </state>
       </provider>
     </entry>
@@ -1002,13 +1022,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Briefs/Untitled15.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
         </state>
       </provider>
     </entry>
